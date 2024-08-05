@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="welcome_text">Пиветствую в приложении "Секретное сообщение"!
+        Используйте это приложение чтобы зашифровать сообщение.
+        Тапните на кнопку "Старт" чтобы начать.</string>
+    <string name="start">Старт</string>
+    <string name="message_hint">Введите свое сообщение</string>
+    <string name="next">Зашифровать</string>
+    <string name="encrypt_text">Вот ваше зашифрованное сообщение</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
